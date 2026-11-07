@@ -1,0 +1,65 @@
+{
+  "captured_at_utc": "2026-11-07T09:41:13.581245+00:00",
+  "bot": "natio-nora-armor",
+  "bot_url": "https://battle.training/bots/natio-nora-armor",
+  "public_ladder": {
+    "ladder": "public",
+    "name": "Public ladder",
+    "rank": 115,
+    "of": 157,
+    "score": 1032,
+    "rating": 1146,
+    "rd": 57,
+    "wins": 17,
+    "losses": 16,
+    "draws": 5,
+    "sets": 38,
+    "version": "nora-v8-elev-20261106-2152",
+    "url": "https://battle.training/ladder"
+  },
+  "public_sets_all_listed_versions": 84,
+  "cup": {
+    "ladder": "promotedby-cup-nov-2026",
+    "rating": 1135,
+    "rd": 30,
+    "games": 154,
+    "wins": 70,
+    "losses": 53,
+    "draws": 31,
+    "last_played": 1794043945062,
+    "enrolled_at": 1793942060591,
+    "score": 1075
+  },
+  "reference_public": {
+    "ladder": "public",
+    "name": "Public ladder",
+    "rank": 149,
+    "of": 157,
+    "score": 687,
+    "rating": 737,
+    "rd": 25,
+    "wins": 268,
+    "losses": 1187,
+    "draws": 252,
+    "sets": 1707,
+    "version": "starter-2",
+    "url": "https://battle.training/ladder"
+  },
+  "reference_cup": {
+    "ladder": "promotedby-cup-nov-2026",
+    "rating": 862,
+    "rd": 25,
+    "games": 897,
+    "wins": 207,
+    "losses": 467,
+    "draws": 223,
+    "last_played": 1794043819572,
+    "enrolled_at": 1793069861620,
+    "score": 812
+  },
+  "limits": [
+    "Public current-version stats, sum of listed public-version counters and cup counts have different scopes; do not add them as independent games.",
+    "100ranked-set criterion may be interpreted as public-ladder-only by reviewer; cup has154sets, public counters84at first check.",
+    "Rating and rank change; this is a timestamped snapshot."
+  ]
+}
